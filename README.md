@@ -14,4 +14,4 @@ This project was developed with [Vite/React](https://vitejs.dev/)
 
 ### 4.- Upon entering, you must select your items to be loaded into the `cart` module.
 
-##**ALL DATA WILL BE SETTING INTO LOCALSTORAGE**
+## **ALL DATA WILL BE SETTING INTO LOCALSTORAGE**
